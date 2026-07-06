@@ -37,4 +37,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
