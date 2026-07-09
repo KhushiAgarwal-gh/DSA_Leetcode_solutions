@@ -52,6 +52,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -66,6 +67,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
