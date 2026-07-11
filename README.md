@@ -88,9 +88,15 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
