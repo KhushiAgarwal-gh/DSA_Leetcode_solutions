@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0136-single-number) |
@@ -59,6 +60,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
