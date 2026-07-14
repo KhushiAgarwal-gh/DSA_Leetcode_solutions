@@ -18,6 +18,7 @@
 | [0485-max-consecutive-ones](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0283-move-zeroes](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,4 +146,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
