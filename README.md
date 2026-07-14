@@ -9,6 +9,7 @@
 | [0074-search-a-2d-matrix](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@
 | [0141-linked-list-cycle](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
 |  |
@@ -91,6 +94,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Merge Sort
 |  |
@@ -126,6 +130,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
 |  |
