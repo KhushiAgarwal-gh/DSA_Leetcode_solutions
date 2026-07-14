@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
