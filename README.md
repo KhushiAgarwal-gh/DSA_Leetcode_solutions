@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0075-sort-colors) |
@@ -61,6 +62,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String
