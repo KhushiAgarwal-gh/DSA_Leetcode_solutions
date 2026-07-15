@@ -11,6 +11,7 @@
 | [0074-search-a-2d-matrix](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
