@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0015-3sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
