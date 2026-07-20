@@ -1,17 +1,19 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        int curr=0;
-        int res = 0;
-        for(char &el : s){
+        int curr =0;
+        int res =0;
+        for(char  el:s){
             if(el=='('){
                 curr++;
-                res=max(res,curr);
+                res = max(res,curr);
             }
-            if(el==')')
+            if( el==')')
                 curr--;
-            }
-        
+                
+            
+        }
+
         return res;
     }
 };
