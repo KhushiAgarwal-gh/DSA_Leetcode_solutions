@@ -130,6 +130,7 @@
 | [0013-roman-to-integer](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
