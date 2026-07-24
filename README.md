@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -59,12 +60,14 @@
 | [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0268-missing-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0268-missing-number) |
 | [1901-find-a-peak-element-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
@@ -118,6 +121,7 @@
 | [0148-sort-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -130,6 +134,7 @@
 | [0013-roman-to-integer](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -162,6 +167,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
