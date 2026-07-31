@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0056-merge-intervals) |
@@ -71,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0268-missing-number) |
