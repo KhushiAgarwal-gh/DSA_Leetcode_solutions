@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -80,6 +81,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0268-missing-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
