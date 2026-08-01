@@ -25,12 +25,12 @@ public:
         int high = *max_element(bloomDay.begin(),bloomDay.end());
        
             long long total = 1LL*k*m;
-            int ans=-1;
+           // int ans=-1;
             if(total>n) return -1;
             while(low<=high){
                 int mid=low+(high-low)/2;
                 if(possible(bloomDay,mid,m,k)){
-                    ans=mid;
+                    //ans=mid;
                     high=mid-1;
                 }
                 else{
@@ -38,6 +38,6 @@ public:
                 }
             }
         
-        return ans;
+        return low;
     }
 };
