@@ -6,8 +6,8 @@ public:
         int high=n-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            int a = arr[mid]-(mid+1);
-            if(a<k){
+            int missing = arr[mid]-(mid+1);
+            if(missing<k){
                 low=mid+1;
             }
             else{
