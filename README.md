@@ -219,4 +219,8 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0076-minimum-window-substring) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
