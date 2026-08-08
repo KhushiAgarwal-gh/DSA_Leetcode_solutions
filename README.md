@@ -31,6 +31,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -82,6 +83,7 @@
 | [0268-missing-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0268-missing-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
 |  |
@@ -138,6 +140,7 @@
 | [0242-valid-anagram](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -219,6 +223,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -232,4 +237,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
