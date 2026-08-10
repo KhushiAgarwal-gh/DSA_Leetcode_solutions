@@ -1,17 +1,19 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        int n = nums.size();
+        int n =nums.size();
         int ind=-1;
         for(int i=n-2;i>=0;i--){
-            if(nums[i+1]>nums[i]){
-                ind=i;
+            if(nums[i]<nums[i+1]){
+                ind =i;
                 break;
             }
+           
+            
         }
-        if(ind==-1) {
-            reverse(nums.begin(),nums.end()); 
-            return;
+         if(ind==-1) {
+                reverse(nums.begin(),nums.end());
+                return;
             }
         for(int i=n-1;i>=0;i--){
             if(nums[ind]<nums[i]){
