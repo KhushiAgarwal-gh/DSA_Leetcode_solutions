@@ -227,6 +227,7 @@
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
