@@ -263,4 +263,8 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
