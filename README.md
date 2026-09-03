@@ -136,6 +136,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -267,4 +268,16 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0176-second-highest-salary) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
