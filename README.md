@@ -220,6 +220,7 @@
 | [0053-maximum-subarray](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -283,6 +285,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -291,6 +294,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -300,5 +304,6 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
