@@ -133,6 +133,7 @@
 | [0002-add-two-numbers](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0189-rotate-array](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -221,6 +223,7 @@
 | [0055-jump-game](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -310,4 +313,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
