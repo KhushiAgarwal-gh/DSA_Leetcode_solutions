@@ -117,6 +117,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0148-sort-list) |
@@ -279,6 +280,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -289,6 +291,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -299,6 +302,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -307,6 +311,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## DP on Trees
 |  |
