@@ -285,6 +285,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -296,6 +297,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -307,12 +309,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0993-cousins-in-binary-tree](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
