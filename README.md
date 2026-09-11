@@ -282,6 +282,7 @@
 | [0183-customers-who-never-order](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0196-delete-duplicate-emails) |
+| [0596-classes-with-at-least-5-students](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0596-classes-with-at-least-5-students) |
 ## Tree
 |  |
 | ------- |
