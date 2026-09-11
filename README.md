@@ -349,4 +349,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
