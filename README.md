@@ -345,4 +345,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
