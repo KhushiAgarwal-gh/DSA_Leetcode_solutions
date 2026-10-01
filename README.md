@@ -286,6 +286,7 @@
 | [0595-big-countries](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1148-article-views-i](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1683-invalid-tweets) |
 ## Tree
 |  |
 | ------- |
