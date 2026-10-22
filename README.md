@@ -190,6 +190,7 @@
 | [0242-valid-anagram](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0686-repeated-string-match](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -207,6 +208,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0796-rotate-string) |
 ## Counting
 |  |
@@ -369,4 +371,16 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0022-generate-parentheses) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/KhushiAgarwal-gh/DSA_Leetcode_solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
